@@ -1,0 +1,54 @@
+Add 2018-08-26 event1a
+Add 2018-08-26 event1
+Add 2018-08-26 event1b
+Add 2018-08-26 event111
+Add 2018-08-26 event11
+
+Add 0-1-2 event1
+Add 1-2-3 event2
+Find 0-1-2
+Find 2018-08-26
+
+Del 0-1-2
+Print
+Del 1-2-3 event2
+Del 1-2-3 event2
+
+UnknownAction 2018-08-26 event5
+Unknown
+sdaf
+./f3m430q94vhnj f
+    
+
+
+Add -08-26 event1
+Add 2018--26 event1
+Add 2018-08- event1
+Add -- event1
+
+Add -2018-08-26 event1
+Add --2018-08-26 event1
+Add 2018-08-26- event1
+Add -2018-08-26- event1
+Add --2018-08-26- event1
+Add 2018--08-26 event1
+Add 2018---08-26 event1
+Add --2018-08-26foo event1
+Add --2018-08-26-foo event1
+
+Add 2018-0-26 event1
+Add 2018-32-26 event1
+Add 2018-08-0 event1
+Add 2018-08-32 event1
+
+Print
+
+Del 2018-08-26 event111
+Print
+Del 2018-08-26 event111
+Print
+
+Del 2018-08-26
+Print
+Del 2018-08-26
+Print
