@@ -1,0 +1,6 @@
+Add 2017-01-01 Holiday
+Add 2017-03-08 Holiday
+Add 2017-01-01 working day
+Add 2017-01-01 New Year
+Print
+Find event != "working day"
